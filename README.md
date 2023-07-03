@@ -31,6 +31,8 @@ By integrating a large language model with knowledge bases, an AI system can acc
 
 #### 3.2 Using Large Language Models for Information Rerankers
 
+#### 3.3 Using Large Language Models for Knowledge Bases Completion
+
 ### 4. Integrating LLM and KB
 <!-- Synergized LLMs + KBs -->
 
